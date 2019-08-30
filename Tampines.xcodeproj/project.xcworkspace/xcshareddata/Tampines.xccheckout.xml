@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>848794FD-257D-4803-A635-1E569C6A99C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tampines</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0BA916C8-680A-462F-BBB0-39C72E0071CA</key>
+		<string>svn://192.168.0.14:3691/mobileapps/iPhone/SCM/Tampines</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tampines.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0BA916C8-680A-462F-BBB0-39C72E0071CA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0BA916C8-680A-462F-BBB0-39C72E0071CA</key>
+		<string>svn://192.168.0.14:3691/mobileapps</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.0.14:3691/mobileapps/iPhone/SCM/Tampines/Tampines.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0BA916C8-680A-462F-BBB0-39C72E0071CA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0BA916C8-680A-462F-BBB0-39C72E0071CA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tampines</string>
+		</dict>
+	</array>
+</dict>
+</plist>
